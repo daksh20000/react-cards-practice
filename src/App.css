@@ -1,0 +1,9 @@
+.heading{
+  background-color: greenyellow;
+  margin: 30px;
+  padding: 10px;
+}
+.container{
+  display: flex;
+}
+
